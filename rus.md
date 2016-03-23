@@ -1,8 +1,9 @@
 # Новая возможность языка в ES2016: оператор возведения в степень (**)
 
 Оператор возведения в степень (`**`) — это дополнение для ECMAScript, 
-предложеннное Риком Валдроном (Rick Waldron). Оно на четвертой стадии, 
-то есть уже готово, и является частью спецификации [ECMAScript 2016][1].
+предложеннное Риком Валдроном (Rick Waldron). Оно находится на четвертой стадии 
+[процесса формирования релизов][0], то есть полностью готово, и является частью 
+спецификации [ECMAScript 2016][1].
 
 
 ## Инфиксный оператор для возведения в степень
@@ -27,5 +28,6 @@
 
 *   [Exponentiation Operator][2] (Рик Валдрон)
 
- [1]: http://www.2ality.com/2016/01/ecmascript-2016.html
- [2]: https://github.com/rwaldron/exponentiation-operator
+[0]: http://www.2ality.com/2015/11/tc39-process.html
+[1]: http://www.2ality.com/2016/01/ecmascript-2016.html
+[2]: https://github.com/rwaldron/exponentiation-operator
